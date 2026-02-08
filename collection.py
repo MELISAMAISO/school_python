@@ -45,13 +45,14 @@ print(fruits)
 
 fruits.reverse()
 
-#extend
+#extend is used to combine two lists that is name and cars
 names=["peter","john","Ethan"]
 cars = ["toyota", "BMW","Audi","Benz"]
 
 names.extend(cars)
 print(names)
 
+#
 for i in range(len(fruits)):
     print(fruits[i])
     

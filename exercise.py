@@ -1,4 +1,4 @@
-#BSCIT-05-0080/2024
+6#BSCIT-05-0080/2024
 #MOKEIRA MAISO
 
 hours=int(input("Enter hours:"))
