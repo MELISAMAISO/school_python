@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#Maiso
 #prompt the user to enter marks for 3 subjects
 #compute the average
 #print score

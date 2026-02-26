@@ -1,4 +1,5 @@
 #BSCIT-05-0080/2024
+#Maiso
 #decision making
 salary=float(input("Enter your salary: "))
 year_of_service=int(input("Enter your years of service: "))
