@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
 #create a function that takes a list
 # of integers as input and returns a new list containing only the even number
 
@@ -20,18 +22,4 @@ print("Even numbers are: ",result)
 
 
 
-#Create a function that take a list checks if the list contains only odd number
-oddnumber=input("Enter your numbers: ")
-
-def odddigits(digits):
-    odd_digits=[]
-    for digit in digits:
-        if digit %2!=1:
-            odd_digits.append(digit)
-
-oddlist=oddnumber.split()
-oddlist=[int(dig)for dig in oddlist]
-answer=odddigits(oddlist)
-
-print("Odd numbers are:",answer)
-
+ 

@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
 #class bankaccount with attributes and methods
 class BankAccount:#creating the class
     def __init__(self,account_number,balance,date_of_opening,customer_name):#Adding the constructor which automatically runs when object is created
@@ -24,7 +26,6 @@ class BankAccount:#creating the class
         print("Customer Name: ",self.customer_name)  
         print("Account Number: ",self.account_number)
         print("Date of Opening: ",self.date_of_opening)
-        print("Balance: ",self.balance)
 
 account1=BankAccount(577,20000,"2024-01-02","Daniel")
 

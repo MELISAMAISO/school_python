@@ -1,4 +1,6 @@
-#python function to find the maximum sum of a subarray in a given list of integers
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
+##python function to find the maximum sum of a subarray in a given list of integers
 def subarray(numbers):
     current_sum=numbers[0]
     max_sum=numbers[0]

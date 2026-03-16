@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
 #python function to check if a string is a palindrome
 #A palindrome is a word that reads the same forward and backward example madam,racecar,level
 

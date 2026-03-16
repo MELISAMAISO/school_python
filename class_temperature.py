@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
 #python program to create a class temperature that has two methods convertFahrenheit convertCelsius
 
 class Temperature:
@@ -14,6 +16,8 @@ class Temperature:
 my_temp=Temperature(25,77)
 print(my_temp.convertFahrenheit()) 
 print(my_temp.convertCelsius())
+
+
 
 #python program to create a class Circle initialize with radius and has two metods area and circumference
 import math

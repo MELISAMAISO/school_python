@@ -1,3 +1,5 @@
+#BSCIT-05-0080/2024
+#MOKEIRA MAISO
 #simple interest to prompt the user to enter principle,rate and time
 
 principle=float(input("Enter the principle: "))
